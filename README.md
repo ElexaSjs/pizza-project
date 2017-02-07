@@ -3,5 +3,3 @@
 
 My favorite pizza toppings are:
 * Potatoes
-* Rosemary
-* Olive oil
